@@ -1,0 +1,12 @@
+C:\Program Files\vJoy\SDK\c#\FeederDemoCS\bin\Release\FeederDemoCS.exe
+C:\Program Files\vJoy\SDK\c#\FeederDemoCS\bin\Release\FeederDemoCS.pdb
+C:\Program Files\vJoy\SDK\c#\FeederDemoCS\bin\Release\vJoyInterfaceWrap.dll
+C:\Program Files\vJoy\SDK\c#\FeederDemoCS\obj\Release\ResolveAssemblyReference.cache
+C:\Program Files\vJoy\SDK\c#\FeederDemoCS\obj\Release\FeederDemoCS.exe
+C:\Program Files\vJoy\SDK\c#\FeederDemoCS\obj\Release\FeederDemoCS.pdb
+C:\Program Files\vJoy\vJoyFeederApplication\c#\FeederDemoCS\obj\Release\FeederDemoCS.exe
+C:\Program Files\vJoy\vJoyFeederApplication\c#\FeederDemoCS\obj\Release\FeederDemoCS.pdb
+C:\Program Files\vJoy\vJoyFeederApplication\c#\FeederDemoCS\bin\Release\FeederDemoCS.exe
+C:\Program Files\vJoy\vJoyFeederApplication\c#\FeederDemoCS\bin\Release\FeederDemoCS.pdb
+C:\Program Files\vJoy\vJoyFeederApplication\c#\FeederDemoCS\bin\Release\vJoyInterfaceWrap.dll
+C:\Program Files\vJoy\vJoyFeederApplication\c#\FeederDemoCS\obj\Release\ResolveAssemblyReference.cache
